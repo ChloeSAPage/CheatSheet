@@ -1,0 +1,31 @@
+body {
+    background-color: #628395;
+    font-family: cursive;
+}
+
+h1 {
+    color: black;
+    background-color: #D0CE7C;
+    margin-top: 0;
+    padding: 50px;
+    border-radius: 5%;
+    text-align: center;
+}
+
+strong {
+    font-weight: bolder;
+    color: black;
+}
+
+table {
+    width: 100%;
+    padding: 15px;
+}
+
+tr:nth-child(even) {
+    background-color: #DBAD6A;
+}
+
+tr:nth-child(odd) {
+    background-color: #CF995F;
+}
